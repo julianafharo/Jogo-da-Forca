@@ -1,5 +1,5 @@
-# Jogo-da-Forca
-Jogo desenvolvido no curso de C da Alura
-Não esqueça de compilar o arquivo!!!!
+<h1>Jogo da Forca em C</h1>
+<p>Jogo desenvolvido no curso de C da Alura!</p>
+<p><b>Não esqueça de compilar o arquivo!!!!</b></p>
 
-obrigada <3
+Obrigada <3
